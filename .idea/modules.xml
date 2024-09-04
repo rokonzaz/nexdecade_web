@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pinwheel-tailwind-main.iml" filepath="$PROJECT_DIR$/.idea/pinwheel-tailwind-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nex-web.iml" filepath="$PROJECT_DIR$/.idea/nex-web.iml" />
     </modules>
   </component>
 </project>
